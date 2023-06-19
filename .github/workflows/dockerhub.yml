@@ -3,7 +3,7 @@ name: Ubuntu 22.04 - Docker Build
 on:
   push:
   workflow_dispatch:
-    branches: [ main ]
+    branches: [ master ]
 
 jobs:
 
